@@ -1,0 +1,20 @@
+{
+    "name" : "Kids-Quiz",
+    "short_name" : "Quiz",
+    "start_url" : ".",
+    "display" : "standalone",
+    "background_color": "#fff",
+    "description": "Quiz game for kids",
+    "icons" : [
+        {
+            "src" : "https://i.pinimg.com/originals/71/d6/c3/71d6c35dde4eb984d288ffada8222f3d.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        },
+        {
+            "src" : "https://i.pinimg.com/originals/71/d6/c3/71d6c35dde4eb984d288ffada8222f3d.png",
+            "sizes" : "192x192",
+            "type" : "image/png"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+.gameinfo {
+    text-align:center;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    gap : 30px;
+
+    margin-left : 50px;
+    margin-right : 50px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro');
+.gameinfo > p {
+    color : black;
+    text-align: center;
+
+}

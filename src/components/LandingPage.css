@@ -1,0 +1,20 @@
+.landingpage {
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin : 0 auto;
+}
+
+.landingpage_gameinfo {
+    padding-top: 30px;
+    text-decoration : none;
+    color:inherit;
+    color :#F0788C;
+}
+
+.landingpage_gameinfo:hover {
+    color : rgb(190, 190, 190);
+}
+
+    
